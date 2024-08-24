@@ -23,14 +23,10 @@
 
 }
 
-#alex-photo{
-
-    width:500px;
-}
-
-img{
+#alex-ig-photo{
     float: left;
     border-radius:50%;
+    width: 150px;
 }
 
 .main-text{
@@ -58,4 +54,11 @@ img{
 
 
 }
+
+#alex-punch{
+
+    border-radius:50%;
+    width:400px;
+}
+
 
