@@ -15,6 +15,7 @@
     font-size: 20px;
     margin: 0;
     padding-left: 77px;
+    padding-bottom: 15px;
     text-align: center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 
@@ -48,4 +49,11 @@ img{
 }
 
 
+#alex-izzy{
+
+    display: flex;
+    justify-content: center;
+
+
+}
 
