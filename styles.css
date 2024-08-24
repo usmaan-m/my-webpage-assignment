@@ -1,0 +1,51 @@
+#name-header{
+    color: RGB(210, 10, 10);
+    text-align: center;
+    padding:20px;
+    background-color:lightgrey;
+    font-size: 50px;
+    margin: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#subheading{
+    color:RGB(210, 10, 10);
+    background-color: lightgrey;
+    font-size: 20px;
+    margin: 0;
+    padding-left: 77px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+#alex-photo{
+
+    width:500px;
+}
+
+img{
+    float: left;
+    border-radius:50%;
+}
+
+.main-text{
+    text-align: center;
+    margin-top: 0px;
+    padding:0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+   
+}
+
+.headings{
+    color:RGB(210, 10, 10);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
