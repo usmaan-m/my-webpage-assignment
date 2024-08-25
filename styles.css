@@ -25,8 +25,12 @@
 
 #alex-ig-photo{
     float: left;
-    border-radius:50%;
-    width: 150px;
+    width: 120px;
+    border-width: 5px;
+    /* border-radius: 50%;   */
+    border-style: solid;
+    border-image: linear-gradient(to right, #8a3ab9 0%, #fbad50 100%) 1;  
+
 }
 
 .main-text{
@@ -51,6 +55,7 @@
 
     display: flex;
     justify-content: center;
+   
 
 
 }
